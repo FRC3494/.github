@@ -1,7 +1,8 @@
 # FRC Team 3494 - The Quadrangles
 
 <p align="center">
-    <img src="Aegeon.jpg">
+    <img src="../Aegeon.jpg">
+    <img src="../Cadenza.jpg">
 </p>
 
 Hi! We're a [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) team located out of Bloomington Indiana.
