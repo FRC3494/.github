@@ -3,12 +3,12 @@
 <div align="center">
   <img src="../Aegeon.jpg" alt="Aegeon: Our 2023 robot">
   <br>
-  <b>Figure 1:</b> Aegeon - Our 2023 robot buuild for the CHARGED UP season
+  <b>Figure 1:</b> Aegeon - Our 2023 robot built for the CHARGED UP season
   <br><br>
   
   <img src="../Cadenza.jpg" alt="Cadenza: Our 2024 robot">
   <br>
-  <b>Figure 2:</b> Cadenza - Our 2024 robot build for the CRESCENDO season <a href="https://www.youtube.com/watch?v=H0aQ-AUTamk">[video]</a>
+  <b>Figure 2:</b> Cadenza - Our 2024 robot built for the CRESCENDO season <a href="https://www.youtube.com/watch?v=H0aQ-AUTamk">[video]</a>
   <br><br>
   
   <img src="../Lambda.jpg" alt="Lambda: Our 2025 robot">
