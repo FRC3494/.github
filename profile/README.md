@@ -13,7 +13,7 @@
   
   <img src="../Lambda.jpg" alt="Lambda: Our 2025 robot">
   <br>
-  <b>Figure 3:</b> Lambda - Our 2025 robot built for the REEFSCAPE season
+  <b>Figure 3:</b> Lambda - Our 2025 robot built for the REEFSCAPE season <a href="https://www.youtube.com/shorts/_BtnhCmMFJM">[video]</a>
   <br><br>
 </div>
 
