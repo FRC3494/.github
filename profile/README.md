@@ -30,3 +30,5 @@ Check us out on
 [The Blue Alliance](https://www.thebluealliance.com/team/3494)
 
 Any code we have available publicly is free to use adherent to it's licensing.
+
+Check out [FTC 11329 - I.C.E Robotics](https://github.com/ftc11329) for our FIRST Tech Challenge team!
